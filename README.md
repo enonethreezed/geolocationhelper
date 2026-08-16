@@ -3,6 +3,12 @@
 Ruby scripts to interact with ipgeolocation.io API. 
 Made with Ruby because reasons.
 
+## Configuration
+
+Copy `geolocation.api.key.example` to `geolocation.api.key` and replace its
+placeholder with your ipgeolocation.io API key. The key file is intentionally
+ignored by Git.
+
 # References
 
 - API interaction https://ipgeolocation.io/
